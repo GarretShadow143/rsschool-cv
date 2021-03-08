@@ -18,7 +18,7 @@ Now I work as a QA-engineer. I like to develop in different directions. I think 
 
 # Code examples
 
-```JavaScript
+```JS
 console.log("Hello world");
 ```
 ```JS
